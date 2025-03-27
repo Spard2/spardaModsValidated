@@ -17,7 +17,6 @@
     {"ip": "172.84.94.151", "server": "SYNTAX"},
     {"ip": "189.127.165.175", "server": "BLACKSKULL"},
     {"ip": "172.84.94.139", "server": "MASSARIOLI"},
-    {"ip": "177.201.61.234", "server": "MASSARIOLI"},
-    {"ip": "2804:7110:7100:156:4c42:d723:1d9f:36ab", "server": "APOCALYPSE"},
+    {"ip": "177.201.61.234", "server": "MASSARIOLI"},    
     {"ip": "172.84.94.156", "server": "APOCALYPSE"}
 ]
