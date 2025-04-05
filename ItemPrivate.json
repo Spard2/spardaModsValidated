@@ -6,8 +6,7 @@
 	{"ip": "189.127.164.190", "server": "OCONSTRUTOR"},
     {"ip": "31.214.158.200", "server": "AFTER"},
     {"ip": "31.214.158.194", "server": "AFTER"},
-    {"ip": "189.127.165.245", "server": "CLAUDIN"},
-    {"ip": "191.191.36.16", "server": "CLAUDIN"},
+    {"ip": "189.127.165.245", "server": "CLAUDIN"},    
     {"ip": "172.84.94.145", "server": "CORINGA"},
 	{"ip": "187.10.236.19", "server": "LINUX"},
     {"ip": "181.174.236.5", "server": "NANICO"},
@@ -17,5 +16,7 @@
     {"ip": "172.84.94.156", "server": "APOCALYPSE"},
     {"ip": "172.84.94.160", "server": "FABRICIO"},
     {"ip": "45.4.49.79", "server": "GOMES"},
-    {"ip": "172.84.94.144", "server": "jhonwinchester"}
+    {"ip": "172.84.94.144", "server": "jhonwinchester"},
+	{"ip": "177.67.47.235", "server": "4trix-HollowG"},
+	{"ip": "191.191.36.16", "server": "4trix-HollowG"}
 ]

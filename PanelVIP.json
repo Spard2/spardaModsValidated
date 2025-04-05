@@ -1,6 +1,8 @@
 [
     {"ip": "201.7.215.17", "server": "LOCAL"},
-    {"ip": "172.84.94.145", "server": "CORINGA"},   
+    {"ip": "172.84.94.145", "server": "CORINGA"}, 	
+	{"ip": "177.67.47.235", "server": "4trix-HollowG"},
+	{"ip": "191.191.36.16", "server": "4trix-HollowG"},
     {"ip": "172.84.94.156", "server": "APOCALYPSE"},
     {"ip": "179.191.10.35", "server": "ELVIS"},
     {"ip": "172.84.94.142", "server": "NelsonRafael"},
