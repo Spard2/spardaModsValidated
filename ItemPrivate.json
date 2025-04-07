@@ -1,22 +1,82 @@
 [
-    {"ip": "201.7.215.17", "server": "LOCAL"},
-    {"ip": "172.84.94.145", "server": "CORINGA"},
-	{"ip": "189.127.164.144", "server": "4trix-HollowG"},
-	{"ip": "172.84.94.172", "server": "4trix-HollowG"},
-    {"ip": "189.127.165.167", "server": "VIDALOKA"},
-    {"ip": "131.161.104.131", "server": "VIDALOKA"},
-	{"ip": "189.127.164.190", "server": "OCONSTRUTOR"},
-    {"ip": "31.214.158.200", "server": "AFTER"},
-    {"ip": "31.214.158.194", "server": "AFTER"},
-    {"ip": "189.127.165.245", "server": "CLAUDIN"},    
-    {"ip": "172.84.94.145", "server": "CORINGA"},
-	{"ip": "187.10.236.19", "server": "LINUX"},
-    {"ip": "181.174.236.5", "server": "NANICO"},
-    {"ip": "172.84.94.176", "server": "NANICO"},
-    {"ip": "172.84.94.151", "server": "NANICO"},
-    {"ip": "172.84.94.161", "server": "NANICO"},   
-    {"ip": "172.84.94.156", "server": "APOCALYPSE"},
-    {"ip": "172.84.94.160", "server": "FABRICIO"},
-    {"ip": "45.4.49.79", "server": "GOMES"},
-    {"ip": "172.84.94.144", "server": "jhonwinchester"}	
+    {
+        "ip": "201.7.215.17",
+        "server": "LOCAL"
+    },
+    {
+        "ip": "172.84.94.145",
+        "server": "CORINGA"
+    },
+    {
+        "ip": "189.127.164.144",
+        "server": "4trix-HollowG"
+    },
+    {
+        "ip": "172.84.94.172",
+        "server": "4trix-HollowG"
+    },
+    {
+        "ip": "189.127.165.167",
+        "server": "VIDALOKA"
+    },
+    {
+        "ip": "131.161.104.131",
+        "server": "VIDALOKA"
+    },
+    {
+        "ip": "189.127.164.190",
+        "server": "OCONSTRUTOR"
+    },
+    {
+        "ip": "31.214.158.200",
+        "server": "AFTER"
+    },
+    {
+        "ip": "31.214.158.194",
+        "server": "AFTER"
+    },
+    {
+        "ip": "189.127.165.245",
+        "server": "CLAUDIN"
+    },
+    {
+        "ip": "172.84.94.145",
+        "server": "CORINGA"
+    },
+    {
+        "ip": "187.10.236.19",
+        "server": "LINUX"
+    },
+    {
+        "ip": "181.174.236.5",
+        "server": "NANICO"
+    },
+    {
+        "ip": "172.84.94.176",
+        "server": "NANICO"
+    },
+    {
+        "ip": "172.84.94.151",
+        "server": "NANICO"
+    },
+    {
+        "ip": "172.84.94.161",
+        "server": "NANICO"
+    },
+    {
+        "ip": "172.84.94.156",
+        "server": "APOCALYPSE"
+    },
+    {
+        "ip": "172.84.94.160",
+        "server": "FABRICIO"
+    },
+    {
+        "ip": "45.4.49.79",
+        "server": "GOMES"
+    },
+    {
+        "ip": "172.84.94.144",
+        "server": "jhonwinchester"
+    }
 ]
