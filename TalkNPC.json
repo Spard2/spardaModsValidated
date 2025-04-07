@@ -1,4 +1,10 @@
 [
-    {"ip": "201.7.215.17", "server": "LOCAL"},
-    {"ip": "143.0.143.42", "server": "UPWORTH"}
+    {
+        "ip": "201.7.215.17",
+        "server": "LOCAL"
+    },
+    {
+        "ip": "143.0.143.42",
+        "server": "UPWORTH"
+    }
 ]
