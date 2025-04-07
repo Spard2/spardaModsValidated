@@ -1,13 +1,42 @@
 [
-    {"ip": "201.7.215.17", "server": "LOCAL"},    
-	{"ip": "172.84.94.172", "server": "4trix-HollowG"},
-	{"ip": "189.127.164.144", "server": "4trix-HollowG"},
-	{"ip": "168.194.43.150", "server": "MEIAMAO"},
-    {"ip": "45.94.208.187", "server": "MEIAMAO"},
-    {"ip": "172.84.94.158", "server": "UNICORNIASUICIDA"},
-    {"ip": "172.84.94.144", "server": "jhonwinchester"},
-    {"ip": "172.84.94.142", "server": "NelsonRafael"},   
-    {"ip": "172.84.94.156", "server": "APOCALYPSE"},
-	{"ip": "189.127.164.190", "server": "OCONSTRUTOR"},
-	{"ip": "187.10.236.19", "server": "LINUX"}
+    {
+        "ip": "201.7.215.17",
+        "server": "LOCAL"
+    },
+    {
+        "ip": "172.84.94.172",
+        "server": "4trix-HollowG"
+    },
+    {
+        "ip": "168.194.43.150",
+        "server": "MEIAMAO"
+    },
+    {
+        "ip": "45.94.208.187",
+        "server": "MEIAMAO"
+    },
+    {
+        "ip": "172.84.94.158",
+        "server": "UNICORNIASUICIDA"
+    },
+    {
+        "ip": "172.84.94.144",
+        "server": "jhonwinchester"
+    },
+    {
+        "ip": "172.84.94.142",
+        "server": "NelsonRafael"
+    },
+    {
+        "ip": "172.84.94.156",
+        "server": "APOCALYPSE"
+    },
+    {
+        "ip": "189.127.164.190",
+        "server": "OCONSTRUTOR"
+    },
+    {
+        "ip": "187.10.236.19",
+        "server": "LINUX"
+    }
 ]
