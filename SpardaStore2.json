@@ -3,7 +3,7 @@
         "ip": "201.7.215.70",
         "server": "LOCAL"
     },
-	{
+    {
         "ip": "189.127.164.144",
         "server": "4trix-HollowG"
     },
@@ -15,7 +15,7 @@
         "ip": "177.86.189.210",
         "server": "MEIAMAO"
     },
-	{
+    {
         "ip": "168.194.43.150",
         "server": "MEIAMAO"
     },
@@ -26,6 +26,10 @@
     {
         "ip": "172.84.94.144",
         "server": "jhonwinchester"
+    },
+    {
+        "ip": "189.127.165.175",
+        "server": "BLACKSKULL"
     },
     {
         "ip": "172.84.94.142",
