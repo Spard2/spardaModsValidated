@@ -11,6 +11,14 @@
         "ip": "172.84.94.145",
         "server": "CORINGA"
     },
+	{
+        "ip": "172.84.94.147",
+        "server": "TheHighest"
+    },
+	{
+        "ip": "192.168.0.116",
+        "server": "TheHighest"
+    },
     {
         "ip": "172.84.94.142",
         "server": "NelsonRafael"
