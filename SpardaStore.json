@@ -192,6 +192,10 @@
         "server": "LINUX"
     },
     {
+        "ip": "172.84.94.140",
+        "server": "LINUX"
+    },
+    {
         "ip": "172.84.94.144",
         "server": "JhonWinchester"
     },
@@ -218,7 +222,7 @@
     {
         "ip": "181.214.48.68",
         "server": "WOAGAMER"
-    },    
+    },
     {
         "ip": "177.125.249.199",
         "server": "ETC"

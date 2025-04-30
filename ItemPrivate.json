@@ -19,7 +19,7 @@
         "ip": "189.127.164.190",
         "server": "OCONSTRUTOR"
     },
-	{
+    {
         "ip": "172.84.94.142",
         "server": "NelsonRafael"
     },
@@ -41,6 +41,10 @@
     },
     {
         "ip": "187.10.236.19",
+        "server": "LINUX"
+    },
+    {
+        "ip": "172.84.94.140",
         "server": "LINUX"
     },
     {
