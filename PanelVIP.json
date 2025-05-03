@@ -4,6 +4,10 @@
         "server": "LOCAL"
     },
     {
+        "ip": "172.84.94.161",
+        "server": "SCOTINI"
+    },
+    {
         "ip": "172.84.94.145",
         "server": "CORINGA"
     },
