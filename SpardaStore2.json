@@ -4,6 +4,10 @@
         "server": "LOCAL"
     },
     {
+        "ip": "172.84.94.161",
+        "server": "SCOTINI"
+    },
+    {
         "ip": "189.127.164.144",
         "server": "4trix-HollowG"
     },
