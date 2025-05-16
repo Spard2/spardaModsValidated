@@ -35,12 +35,16 @@
         "ip": "45.165.163.225",
         "server": "TheHighest"
     },
-    {
+   {
         "ip": "172.84.94.142",
         "server": "NelsonRafael"
     },
 	{
         "ip": "177.54.149.144",
+        "server": "NelsonRafael"
+    },
+	{
+        "ip": "177.54.149.123",
         "server": "NelsonRafael"
     },
     {

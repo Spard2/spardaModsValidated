@@ -47,12 +47,16 @@
         "ip": "189.127.165.175",
         "server": "BLACKSKULL"
     },
-    {
+   {
         "ip": "172.84.94.142",
         "server": "NelsonRafael"
     },
 	{
         "ip": "177.54.149.144",
+        "server": "NelsonRafael"
+    },
+	{
+        "ip": "177.54.149.123",
         "server": "NelsonRafael"
     },
     {
